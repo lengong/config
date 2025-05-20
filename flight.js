@@ -1,1 +1,1 @@
-http://150.158.92.192:8565/jscode/flightNew.js
+http://159.75.69.221:8180/jscode/flightNew.js
